@@ -1,1 +1,5 @@
-# Build your say_hello method here
+def say_hello("Sana")
+  puts say_hello
+end 
+
+say_hello
